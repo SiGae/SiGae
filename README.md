@@ -8,6 +8,8 @@
 - DevOps: `Jenkins`, `Docker`, `Kubernetes`
 - RDB: `Oracle`, `mariaDB`, `PostgreSQL`
 - NoSQL: `mongoDB`
+- Cloud: `AWS EC2`, `AWS S3`, `AWS RDS`
+- OS: `Ubuntu Debian`, `macOS`, `Windows`
 
 ### Career
 - Woosong University Computer informantion and Security Major (2015.03 ~2019.02)
