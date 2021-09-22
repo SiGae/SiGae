@@ -23,7 +23,7 @@
 > 2020
 - `Typescript` [Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
 > 2021
-- `Python` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it)
+- `Python` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it_back)
 - 
 ### Private works(or on Univ.)
 
