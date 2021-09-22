@@ -1,11 +1,17 @@
 ### Introduce myself
 
 - South Korea
-- Stack: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`
+
+> Stack
+- Language: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`
+- Framework: `Django`, `Flask`, `Spring Boot`
+- DevOps: `Jenkins`, `Docker`, `Kubernetes`
 
 ### Career
-
+- Woosong University Computer informantion and Security Major (2015.03 ~2019.02)
+- Changwon National University Computer Engineering Major(2019.03 ~ 2021.02)
 - Warever (2020.09 ~ 2021.07)
+- Crafta (2021.08 ~ )
 
 ### Open Source works
 
@@ -27,9 +33,10 @@
 - 
 ### Private works(or on Univ.)
 
-- `Javascript` `Flask` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
+- `Javascript` `Flask` `Docker` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
 - `Java` [navigation by BFS and Dijkstra](https://github.com/SiGae/adsterm)
 - `Java` [Parsing XML and decode]()
 - `Python` `Flask` `REST api` [class support web]()
 
 > 2020
+- `mongoDB` `Spring Boot` `Docker` `Kubernetes` Web api management
