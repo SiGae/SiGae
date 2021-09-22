@@ -3,8 +3,8 @@
 - South Korea
 
 ### Stack
-- Language: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`
-- Framework: `Django`, `Flask`, `Spring Boot`
+- Language: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`, `PHP`
+- Framework: `Django`, `Flask`, `Spring Boot`, `Code Igniter`
 - DevOps: `Jenkins`, `Docker`, `Kubernetes`
 - RDB: `Oracle`, `mariaDB`, `PostgreSQL`
 - NoSQL: `mongoDB`
