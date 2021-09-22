@@ -5,7 +5,7 @@
 
 ### Career
 
-- Warever (2020~)
+- Warever (2020.09 ~ 2021.07)
 
 ### Open Source works
 
@@ -22,7 +22,9 @@
 - `Python` [sticker crawler on meeco.kr](https://github.com/SiGae/meecoStickerCrawer)
 > 2020
 - `Typescript` [Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
-
+> 2021
+- `Python` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it)
+- 
 ### Private works(or on Univ.)
 
 - `Javascript` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
