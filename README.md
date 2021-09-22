@@ -1,11 +1,13 @@
-### Introduce myself
+## Introduce myself
 
 - South Korea
 
-> Stack
+### Stack
 - Language: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`
 - Framework: `Django`, `Flask`, `Spring Boot`
 - DevOps: `Jenkins`, `Docker`, `Kubernetes`
+- RDB: `Oracle`, `mariaDB`, `PostgreSQL`
+- NoSQL: `mongoDB`
 
 ### Career
 - Woosong University Computer informantion and Security Major (2015.03 ~2019.02)
