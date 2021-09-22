@@ -11,25 +11,25 @@
 
 > 2016
 
-- `Python` `Typescript` [Telegram utiltiy chatbot](https://github.com/SiGae/sigaebot)
+- `Python` `Typescript` `asyncio` [Telegram utiltiy chatbot](https://github.com/SiGae/sigaebot)
 - `Java`[assisstant of room share](https://github.com/SiGae/Boardtell)
 > 2018
 - `Python` [Dungeon and Fighter Anton raid calculator](https://github.com/SiGae/Dnf_addon_Anton_Raid)
-- `Python` [Dungeon and Fighter auction search Chatbot](https://github.com/SiGae/DnF_searchbot)
-- `Python` [Food selecter of Woosong Univ. Chatbot](https://github.com/SiGae/Woosong-food-guide)
-- `Python` [Hearthstone top 5 minimum price on google play by country](https://github.com/SiGae/Secert-Card-Store)
+- `Python` `Django` [Dungeon and Fighter auction search Chatbot](https://github.com/SiGae/DnF_searchbot)
+- `Python` `mariaDB` [Food selecter of Woosong Univ. Chatbot](https://github.com/SiGae/Woosong-food-guide)
+- `Python` `bs4` [Hearthstone top 5 minimum price on google play by country](https://github.com/SiGae/Secert-Card-Store)
 > 2019
-- `Python` [sticker crawler on meeco.kr](https://github.com/SiGae/meecoStickerCrawer)
+- `Python` `bs4` [sticker crawler on meeco.kr](https://github.com/SiGae/meecoStickerCrawer)
 > 2020
-- `Typescript` [Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
+- `Typescript` `asyncio` `selenium(deprecated)`[Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
 > 2021
-- `Python` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it_back)
+- `Python` `Fastapi` `asyncio` `RESTful` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it_back)
 - 
 ### Private works(or on Univ.)
 
-- `Javascript` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
+- `Javascript` `Flask` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
 - `Java` [navigation by BFS and Dijkstra](https://github.com/SiGae/adsterm)
 - `Java` [Parsing XML and decode]()
-- `Python` [class support web by React and Flask]()
+- `Python` `Flask` `REST api` [class support web]()
 
 > 2020
