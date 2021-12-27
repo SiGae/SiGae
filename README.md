@@ -8,14 +8,12 @@
 - DevOps: `Jenkins`, `Docker`, `Kubernetes`
 - RDB: `Oracle`, `mariaDB`, `PostgreSQL`
 - NoSQL: `mongoDB`
-- Cloud: `AWS EC2`, `AWS S3`, `AWS RDS`
-- OS: `Ubuntu Debian`, `macOS`, `Windows`
+- Cloud: `AWS EC2`, `AWS S3`, `AWS RDS`, `AWS VPC`
 
 ### Career
 - Woosong University Computer informantion and Security Major (2015.03 ~2019.02)
 - Changwon National University Computer Engineering Major(2019.03 ~ 2021.02)
 - Warever ( 2020.09 ~ 2021.07 )
-- Crafta ( 2021.08 ~ 2021.09 )
 - Huray Positive (2021.11 ~ )
 
 ### Open Source works
@@ -34,6 +32,7 @@
 > 2020
 - `Typescript` `asyncio` `selenium(deprecated)`[Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
 > 2021
+- `Python` `Flask` `RESTful` [EMR-API - Practice RESTful API](https://github.com/SiGae/EMR_API)
 - `Python` `Fastapi` `asyncio` `RESTful` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it_back)
 - 
 ### Private works(or on Univ.)
