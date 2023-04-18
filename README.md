@@ -4,10 +4,10 @@
 
 ### Stack
 - Language: `Javascript(ES6~)`,`Typescript` `Python3`, `Java`, `PHP`
-- Framework: `Django`, `Flask`, `Spring Boot`, `Code Igniter`
-- DevOps: `Jenkins`, `Docker`, `Kubernetes`
-- RDB: `Oracle`, `mariaDB`, `PostgreSQL`
-- NoSQL: `mongoDB`
+- Framework: `Django`, `Flask`, `FastAPI`
+- DevOps: `Jenkins`, `Docker`, `Kubernetes`, `Github Action`
+- RDB: `Oracle`, `MySQL`, `mariaDB`, `PostgreSQL`
+- NoSQL: `mongoDB`, `redis`
 - Cloud: `AWS EC2`, `AWS S3`, `AWS RDS`, `AWS VPC`
 
 ### Career
@@ -30,11 +30,14 @@
 > 2019
 - `Python` `bs4` [sticker crawler on meeco.kr](https://github.com/SiGae/meecoStickerCrawer)
 > 2020
-- `Typescript` `asyncio` `selenium(deprecated)`[Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
+- `Typescript`[Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcord)
 > 2021
 - `Python` `Flask` `RESTful` [EMR-API - Practice RESTful API](https://github.com/SiGae/EMR_API)
 - `Python` `Fastapi` `asyncio` `RESTful` [Convertit - Convert document, media or unit](https://github.com/SiGae/convert-it_back)
-- 
+> 2022
+- `Python` `asyncio` `graphQL` `Docker` [Discord Bot that search and send FFXIV player data](https://github.com/SiGae/FFcordv2)
+> 2023
+- `Python` `Django` `asyncio` [Account Book SNS](https://github.com/teamUgeoUgeo/ugeo_back)
 ### Private works(or on Univ.)
 
 - `Javascript` `Flask` `Docker` [Software engineering assignment-Navigation for bike and bus on Changwon city](https://github.com/SiGae/2B)
@@ -43,4 +46,9 @@
 - `Python` `Flask` `REST api` [class support web]()
 
 > 2020
-- `mongoDB` `Spring Boot` `Docker` `Kubernetes` Web api management
+- `mongoDB` `Spring Boot` `Docker` `Kubernetes` Web API management
+> 2022
+- `Ruby` `MySQL` Carecrew 
+- `python` `FastAPI` `Redis` `asyncio` HCR
+> 2023
+- `python` `FastAPI` `Redis` `asyncio` likey
