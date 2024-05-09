@@ -14,7 +14,8 @@
 - Woosong University Computer informantion and Security Major (2015.03 ~2019.02)
 - Changwon National University Computer Engineering Major(2019.03 ~ 2021.02)
 - Warever ( 2020.09 ~ 2021.07 )
-- Huray Positive (2021.11 ~ )
+- Huray Positive (2021.11 ~ 2024.04)
+- KoreaBeautyData(2024.04 ~
 
 ### Open Source works
 
